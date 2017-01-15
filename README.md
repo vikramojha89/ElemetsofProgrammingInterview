@@ -1,2 +1,2 @@
 # ElemetsofProgrammingInterview
-Will contains all programs practiiced by me in this repo
+Will contain all programs practiiced by me in this repo
